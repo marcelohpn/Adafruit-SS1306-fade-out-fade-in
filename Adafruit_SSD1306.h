@@ -1,10 +1,10 @@
 /**************
 
-to use fade in or fade out (did only the 128x64 oled)
+to use fade in or fade out (changed only the 128x64 oled but you can go ahead and change the others)
 
-copy and paste this file.
+copy and paste Adafruit_SSD1306.h and Adafruit_SSD1306.cpp
 
-and in your arduino sketch..
+and in your arduino sketch the command are:
 
 display.fadein();
 
